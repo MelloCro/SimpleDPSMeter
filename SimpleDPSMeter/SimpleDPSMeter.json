@@ -1,0 +1,13 @@
+{
+  "Author": "YourName",
+  "Name": "SimpleDPSMeter",
+  "Punchline": "A lightweight DPS meter for Final Fantasy XIV",
+  "Description": "Tracks and displays damage per second for you and your party members during combat encounters.",
+  "InternalName": "SimpleDPSMeter",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "dps",
+    "meter",
+    "combat"
+  ]
+}
