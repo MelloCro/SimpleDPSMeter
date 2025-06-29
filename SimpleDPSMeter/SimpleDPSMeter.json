@@ -1,5 +1,5 @@
 {
-  "Author": "YourName",
+  "Author": "MelloCro",
   "Name": "SimpleDPSMeter",
   "Punchline": "A lightweight DPS meter for Final Fantasy XIV",
   "Description": "Tracks and displays damage per second for you and your party members during combat encounters.",
@@ -9,5 +9,14 @@
     "dps",
     "meter",
     "combat"
-  ]
+  ],
+  "RepoUrl": "https://github.com/MelloCro/SimpleDPSMeter",
+  "AssemblyVersion": "1.0.0.0",
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/MelloCro/SimpleDPSMeter/main/icon.png",
+  "DownloadLinkInstall": "https://github.com/MelloCro/SimpleDPSMeter/releases/latest/download/SimpleDPSMeter.zip",
+  "DownloadLinkUpdate": "https://github.com/MelloCro/SimpleDPSMeter/releases/latest/download/SimpleDPSMeter.zip"
 }
